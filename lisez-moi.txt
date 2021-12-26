@@ -1,0 +1,14 @@
+font-weight
+img.hover
+image-orientation
+display: flex
+flex-direction:row 
+flex-direction:reverse-row
+
+border-radius
+-moz-transition
+-webkit-transition
+transition 
+font-family
+input
+checked +label
